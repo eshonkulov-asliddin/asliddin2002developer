@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @asliddin2002developer
 - 👀 I’m interested in learning new things
-- 🌱 I’m currently learning Django
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on Linked In
 - 📫 How to reach me https://www.linkedin.com/in/asliddin-eshonkulov-developerr/
 
