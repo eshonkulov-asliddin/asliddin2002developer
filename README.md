@@ -1,4 +1,4 @@
-# Hi, I’m Diyorbek 👋
+# Hi, I’m Asliddin 👋
 
 <!-- - 🌱 I’m currently learning Django framework -->
 
