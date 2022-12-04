@@ -30,3 +30,4 @@
 <a href="https://linux.org/" title="Linux"><img src="https://github.com/get-icon/geticon/raw/master/icons/linux-tux.svg" alt="Linux" width="21px" height="21px"></a>
 <a href="https://archlinux.org/" title="Arch Linux"><img src="https://github.com/get-icon/geticon/raw/master/icons/archlinux.svg" alt="Arch Linux" width="21px" height="21px"></a>
 <a href="https://en.wikipedia.org/wiki/Terminal" title="Terminal"><img src="https://github.com/get-icon/geticon/raw/master/icons/bash.svg" alt="Terminal" width="21px" height="21px"></a>
+<a href="https://en.wikipedia.org/wiki/AWS" title="Amazon Web Services"><img src="https://github.com/get-icon/geticon/raw/master/icons/aws.svg" alt="AWS" width="21px" height="21px"></a>
