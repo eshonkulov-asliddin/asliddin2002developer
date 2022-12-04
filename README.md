@@ -12,7 +12,7 @@
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=asliddin2002developer&show_icons=true&theme=github_light&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiyorbekOlimov&layout=compact&&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asliddin2002developer&layout=compact&&theme=github_light)
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=DiyorbekOlimov&theme=dracula&column=3&margin-w=10&margin-h=10&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
