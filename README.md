@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Social Network](https://devsearch01.herokuapp.com/)
+- 🔭 I’m currently working on [Social Network](https://web-production-80ec.up.railway.app/)
 
 - 🌱 I’m currently learning **Java, Spring**
 
-- 👨‍💻 All of my projects are available at [https://devsearch01.herokuapp.com](https://devsearch01.herokuapp.com)
+- 👨‍💻 All of my projects are available at [https://web-production-80ec.up.railway.app/profile/9b770c44-772d-4784-b1c6-b45b2fe60021/](https://web-production-80ec.up.railway.app/profile/9b770c44-772d-4784-b1c6-b45b2fe60021/)
 
 - 📝 I regularly write articles on [https://asliddins-blog.herokuapp.com/](https://asliddins-blog.herokuapp.com/)
 
@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **eshonkulovasliddindeveloper@gmail.com**
 
-- 📄 Know about my experiences [https://devsearch01.herokuapp.com](https://devsearch01.herokuapp.com)
+- 📄 Know about my experiences [https://web-production-80ec.up.railway.app/profile/9b770c44-772d-4784-b1c6-b45b2fe60021/](https://web-production-80ec.up.railway.app/profile/9b770c44-772d-4784-b1c6-b45b2fe60021/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
